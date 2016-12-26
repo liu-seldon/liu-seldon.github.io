@@ -1,2 +1,2 @@
 # liu-seldon.github.io
-liu-seldon's blog.
+liu-seldon's [Blog](https://liu-seldon.github.io/).
