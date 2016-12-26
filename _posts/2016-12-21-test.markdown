@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: custom_post
 title:  "Hello, world"
+author: liu-seldon
 date:   2016-12-21 14:56:39 +0800
-categories: jekyll update
+categories: liu-seldon update
 ---
 
 Hello, world.
+
 This is test blog.

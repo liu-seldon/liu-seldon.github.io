@@ -24,6 +24,7 @@ github_username:  liu-seldon
 # Build settings
 markdown: kramdown
 theme: minima
+highlighter: rouge
 gems:
   - jekyll-feed
 exclude:
