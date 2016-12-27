@@ -23,8 +23,6 @@ github_username:  liu-seldon
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
 theme: minima
 highlighter: rouge
 gems:
