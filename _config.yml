@@ -22,7 +22,8 @@ url: "https://liu-seldon.github.io/" # the base hostname & protocol for your sit
 github_username:  liu-seldon
 
 # Build settings
-markdown: kramdown
+kramdown:
+  input: GFM
 theme: minima
 highlighter: rouge
 gems:
